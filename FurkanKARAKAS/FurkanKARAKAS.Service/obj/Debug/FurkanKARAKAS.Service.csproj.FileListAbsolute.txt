@@ -1,0 +1,9 @@
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Service\bin\Debug\FurkanKARAKAS.Service.dll
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Service\bin\Debug\FurkanKARAKAS.Service.pdb
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Service\bin\Debug\FurkanKARAKAS.Model.dll
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Service\bin\Debug\FurkanKARAKAS.Model.pdb
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Service\obj\Debug\FurkanKARAKAS.Service.csprojAssemblyReference.cache
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Service\obj\Debug\FurkanKARAKAS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Service\obj\Debug\FurkanKARAKAS.Service.csproj.CopyComplete
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Service\obj\Debug\FurkanKARAKAS.Service.dll
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Service\obj\Debug\FurkanKARAKAS.Service.pdb

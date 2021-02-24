@@ -1,0 +1,6 @@
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Model\bin\Debug\FurkanKARAKAS.Model.dll
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Model\bin\Debug\FurkanKARAKAS.Model.pdb
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Model\obj\Debug\FurkanKARAKAS.Model.csprojAssemblyReference.cache
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Model\obj\Debug\FurkanKARAKAS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Model\obj\Debug\FurkanKARAKAS.Model.dll
+C:\Users\Faydam\source\repos\FurkanKARAKAS\FurkanKARAKAS.Model\obj\Debug\FurkanKARAKAS.Model.pdb
